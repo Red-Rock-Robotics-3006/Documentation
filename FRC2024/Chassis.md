@@ -1,0 +1,3 @@
+- Chassis is currently unmodified 1/8in wall thickness 1x2 box tube, bellypan is crude 1/8in(?) polycarb
+	- Switching to REV tube could be helpful, thin walls are a rigidity concern
+	- Aluminum bas
