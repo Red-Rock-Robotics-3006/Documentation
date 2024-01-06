@@ -1,0 +1,1 @@
+- Uses REV [[Power Distribution Hub]] for main power delivery 
