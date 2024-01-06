@@ -4,4 +4,5 @@ Quick version:
 - Bin REV 40A ATO breakers to around 1.5 milliohms or less
 - Check main breaker resistance, choose the best
 - firmly tighten lugs on the battery, PDH, and main breaker for best contact area
+- Use butt splices where possible, WAGO inline lever nuts where necessary
 - 
