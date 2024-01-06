@@ -1,4 +1,4 @@
 - Chassis is currently unmodified 1/8in wall thickness 1x2 box tube, bellypan is crude 1/8in(?) polycarb
 	- Switching to REV tube could be helpful, thin walls are a rigidity concern
 	- Aluminum bellypan would be nice, 1/8 or 1/4in are potentially viable and would lower CG
-- All [[electronics]] are mounted to bellypan as of now, though a separate board could be desirable for servic
+- All [electronics](electronics.md) are mounted to bellypan as of now, though a separate board could be desirable for serviceability 
