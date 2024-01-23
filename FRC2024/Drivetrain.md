@@ -1,0 +1,29 @@
+# Module Information
+
+- WCP Swerve_X non flipped (may be legacy)
+
+| Field | Value |
+|-------|-------|
+| Wheel Radius | 1.5 in |
+| Drive Ration | 7.13 : 1 |
+| Drive Motor | Falcon500 (Talon FX) |
+| Turn Motor | Falcon500 (Talon FX) |
+| Encoder | CANCoder (CTRE) |
+
+# Base Information
+
+| Field | Value |
+|-------|-------|
+| Width | 28 in |
+| Height | 28 in |
+| Canivore? | no |
+| Pigoen2 ID | 45 |
+
+# CAN
+
+| Module | Drive ID | Turn ID | CCoder ID |
+|--|--|--|--|
+| FL |
+| FR |
+| BL |
+| BR |
