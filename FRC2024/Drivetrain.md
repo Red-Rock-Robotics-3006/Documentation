@@ -4,7 +4,7 @@
 
 | Field | Value |
 |-------|-------|
-| Wheel Radius | 1.5 in |
+| Wheel Radius | 2 in |
 | Drive Ratio | 7.13 : 1 |
 | Drive Motor | Falcon500 (Talon FX) |
 | Turn Motor | Falcon500 (Talon FX) |
