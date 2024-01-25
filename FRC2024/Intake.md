@@ -2,6 +2,6 @@
 |Field|Value|
 |-------|-------|
 |Width|26 in|
-|Motor|NEO Vortex (SparkFlex)|
+|Motor|NEO Vortex (SPARK Flex)|
 
 *insert screenshots here later*
