@@ -5,4 +5,4 @@ Quick version:
 - Check main breaker resistance, choose the best
 - firmly tighten lugs on the battery, PDH, and main breaker for best contact area
 - Use butt splices where possible, WAGO inline lever nuts where necessary
-- 
+- BLDC controllers could be best placed next to the motor they're driving, more info needed

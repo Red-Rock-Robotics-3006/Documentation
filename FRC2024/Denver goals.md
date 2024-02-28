@@ -1,0 +1,12 @@
+- new shooter
+- shorten cart
+- clean swerve modules
+- full fastener check
+- get more 10-32 hardware
+- plan pit layout, 10x10 build area in shop to test the pit layout
+- re-ikea the cart
+- loctite everything😭
+- new parts storage?
+- restock dewalt boxes
+-  create a tool battery charging setup that's portable
+- 
