@@ -8,5 +8,7 @@
 - loctite everything😭
 - new parts storage?
 - restock dewalt boxes
--  create a tool battery charging setup that's portable
+- create a tool battery charging setup that's portable
+- have people at Utah scout how people organize their pits and try to learn from their systems of organization
+- better tabletop for t-slot benches
 - 
