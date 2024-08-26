@@ -1,0 +1,45 @@
+- Crimpers
+	- SL Crimper *(FREE)*
+	- Ferrule Crimper *(54)*
+	- Terminal Crimper (1)
+- Strippers
+	- Small Gauge Wire Stripper **x2** *(21)* IDEAL Reflex
+	- Large Gauge Wire Stripper **x2** *(21)* IDEAL Reflex
+	- Autostripper *(116)* KNIPEX 12-52-195
+- Hex Keys
+	- Imperial Hex Set **x3** *(36)* Wera Hex Plus
+	- Metric Hex Set *(50)*
+	- Excess 3/16, 5/32, 1/8 hex keys
+- Wrenches
+	- Knipex Pliers Wrench XS **x2** *(49)* KNIPEX 86-04-100
+	- Imperial Wrench Set **x2** *(50)* Craftsman
+	- Metric Wrench Set *(~40)* Craftsman
+	- Excess 7/16, 3/8 Wrenches
+	- 7/16 Sealed Head Ratchets **x3** *(23)* Wera Joker
+- Pliers
+	- Electronics Pliers **x3** *(45)* 35-62-145
+	- Precision Tweezers **x2** *(32)*
+	- Needlenoses **x2** *(30)* KNIPEX 26-12-200
+	- Long noses **x2**
+	- Knipex Cobras **x2**
+	- Circlip Pliers
+- Cutting
+	- Electricians Shears
+	- Super Knips **x3** *(32)*
+	- Compact Bolt Cutters
+	- Diagonal Cutters **x2**
+	- X-Cut Cutters
+- Screwdrivers
+	- T8, T10, T15 Drivers **x2**
+	- 3/16, 5/32, 1/8 Hex Drivers, T handles
+	- Various Flathead, Phillips Head Drivers
+	- LTT Screwdriver? Some Ratchet Needed
+	- CTRE Fixed Torque Kraken Driver **x2**
+- Sockets
+- MOLEX numbers
+	- ## 16-02-0103 (Female SL)
+	- ## 16-02-0115 (Male SL)
+	- ## 50-57-9402 (Female Housing 2pin)
+	- ## 70107-0001 (Male Housing 2pin)
+	- ## 19073-0163 (Ring Terminal 10AWG)
+	- ## 19073-0007 (Ring Terminal 18-22AWG)

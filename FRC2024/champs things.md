@@ -1,0 +1,4 @@
+- Swerve module gear so dead
+	- have spares for swerve gears
+	- switch to mk4 modules, better cross-team support
+	- 
